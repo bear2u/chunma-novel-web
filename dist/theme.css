@@ -1,0 +1,3 @@
+:root{--page:#f8fafc;--surface:#edf1f5;--text:#202630;--muted:#505c6b;--line:#bac4d0;--action:#334b62;--on-action:#f8fafc;--hover:#dce5ef;}
+[data-theme="dark"]{--page:#191e1b;--surface:#242c26;--text:#ecebdf;--muted:#bec5b8;--line:#566354;--action:#d4dfc5;--on-action:#191e1b;--hover:#354237;}
+[data-theme="sepia"]{--page:#faf7ef;--surface:#f0ebdf;--text:#242721;--muted:#595e54;--line:#c8c9bc;--action:#354a3b;--on-action:#faf7ef;--hover:#dfe5d9;}

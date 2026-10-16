@@ -1,0 +1,10 @@
+dist/
+__pycache__/
+.DS_Store
+artifacts/
+
+.ds-receipts/
+
+# Original manuscripts and editorial material stay local.
+*.doc
+*.docx
